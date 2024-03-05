@@ -11,6 +11,7 @@
 - map 비구조화 할당
 - map.size
 - sort 이용 조금 더 
+- || 이용하여 undefined 생략
 
  */
 function main() {
